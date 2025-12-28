@@ -1,0 +1,10 @@
+streamlit>=1.31.0
+validators>=0.22.0
+
+langchain-core>=0.1.45
+langchain-community>=0.0.33
+langchain-groq>=0.1.4
+
+unstructured>=0.12.6
+pytube>=15.0.0
+youtube-transcript-api>=0.6.2
